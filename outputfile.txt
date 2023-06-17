@@ -1,0 +1,101 @@
+
+=================================================================
+                                          Dependent variable:    
+                                      ---------------------------
+                                               .outcome          
+-----------------------------------------------------------------
+Gdppc_growth                                   -0.089***         
+                                           (-0.144, -0.035)      
+                                                                 
+School_years                                   -0.215***         
+                                           (-0.346, -0.084)      
+                                                                 
+Educ_expend                                    -0.084***         
+                                           (-0.133, -0.036)      
+                                                                 
+health_expdpc                                  0.214***          
+                                            (0.169, 0.259)       
+                                                                 
+net_migration_rate                             0.409***          
+                                            (0.388, 0.430)       
+                                                                 
+Median_age                                     0.349***          
+                                            (0.127, 0.570)       
+                                                                 
+marriage_per_1000                              0.056***          
+                                            (0.034, 0.078)       
+                                                                 
+relig_feel                                     0.069***          
+                                            (0.037, 0.100)       
+                                                                 
+ratio_f_m_educ                                 -0.150***         
+                                           (-0.211, -0.089)      
+                                                                 
+tert_educ                                       0.034**          
+                                            (0.007, 0.060)       
+                                                                 
+lg_Median_age                                  -1.591***         
+                                           (-1.816, -1.366)      
+                                                                 
+lg_health_expdpc                                0.063**          
+                                            (0.008, 0.118)       
+                                                                 
+lg_Life_expec                                  0.204***          
+                                            (0.159, 0.249)       
+                                                                 
+lg_Educ_expend                                 0.084***          
+                                            (0.035, 0.133)       
+                                                                 
+lg_Gdppc_growth                                0.099***          
+                                            (0.063, 0.135)       
+                                                                 
+ratio_fm_schlyrs                               0.276***          
+                                            (0.095, 0.456)       
+                                                                 
+gdp_schlyrs                                     -0.011           
+                                            (-0.053, 0.031)      
+                                                                 
+`ContinentAfrica:civil_rights`                  -0.046*          
+                                            (-0.095, 0.003)      
+                                                                 
+`ContinentAsia:civil_rights`                    -0.003           
+                                            (-0.049, 0.042)      
+                                                                 
+`ContinentEurope:civil_rights`                 -0.073***         
+                                           (-0.105, -0.041)      
+                                                                 
+`ContinentNorth America:civil_rights`          -0.102***         
+                                           (-0.137, -0.067)      
+                                                                 
+`ContinentOceania:civil_rights`                  0.025           
+                                            (-0.045, 0.095)      
+                                                                 
+`ContinentSouth America:civil_rights`           -0.019           
+                                            (-0.060, 0.022)      
+                                                                 
+`ContinentAsia:School_years`                    -0.038           
+                                            (-0.103, 0.027)      
+                                                                 
+`ContinentEurope:School_years`                 -0.120***         
+                                           (-0.210, -0.029)      
+                                                                 
+`ContinentNorth America:School_years`           -0.012           
+                                            (-0.060, 0.036)      
+                                                                 
+`ContinentOceania:School_years`                 -0.010           
+                                            (-0.083, 0.064)      
+                                                                 
+`ContinentSouth America:School_years`           -0.045*          
+                                            (-0.098, 0.008)      
+                                                                 
+Constant                                       1.563***          
+                                            (1.543, 1.582)       
+                                                                 
+-----------------------------------------------------------------
+Observations                                     3,067           
+R2                                               0.821           
+Adjusted R2                                      0.819           
+Residual Std. Error                        0.547 (df = 3038)     
+F Statistic                           496.032*** (df = 28; 3038) 
+=================================================================
+Note:                                 *p<0.1; **p<0.05; ***p<0.01

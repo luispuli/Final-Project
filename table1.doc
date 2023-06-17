@@ -1,0 +1,100 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: ju., jun. 08, 2023 - 14:46:13
+% Requires LaTeX packages: dcolumn 
+\begin{table}[!htbp] \centering 
+  \caption{Multiple Linear Model} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-3} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & \multicolumn{1}{c}{.outcome} \\ 
+\hline \\[-1.8ex] 
+ Gdppc\_growth & -0.045^{**} \\ 
+  & (0.021) \\ 
+  & \\ 
+ School\_years & -0.309^{***} \\ 
+  & (0.063) \\ 
+  & \\ 
+ Educ\_expend & -0.048^{***} \\ 
+  & (0.011) \\ 
+  & \\ 
+ health\_expdpc & 0.235^{***} \\ 
+  & (0.018) \\ 
+  & \\ 
+ net\_migration\_rate & 0.416^{***} \\ 
+  & (0.011) \\ 
+  & \\ 
+ marriage\_per\_1000 & 0.015 \\ 
+  & (0.012) \\ 
+  & \\ 
+ relig\_feel & 0.070^{***} \\ 
+  & (0.016) \\ 
+  & \\ 
+ ratio\_f\_m\_educ & -0.194^{***} \\ 
+  & (0.033) \\ 
+  & \\ 
+ tert\_educ & 0.065^{***} \\ 
+  & (0.014) \\ 
+  & \\ 
+ lg\_Median\_age & -1.264^{***} \\ 
+  & (0.029) \\ 
+  & \\ 
+ lg\_Life\_expec & 0.219^{***} \\ 
+  & (0.022) \\ 
+  & \\ 
+ ratio\_fm\_schlyrs & 0.394^{***} \\ 
+  & (0.089) \\ 
+  & \\ 
+ gdp\_schlyrs & 0.017 \\ 
+  & (0.021) \\ 
+  & \\ 
+ `ContinentAfrica:civil\_rights` & -0.065^{**} \\ 
+  & (0.027) \\ 
+  & \\ 
+ `ContinentAsia:civil\_rights` & -0.045^{*} \\ 
+  & (0.025) \\ 
+  & \\ 
+ `ContinentEurope:civil\_rights` & -0.087^{***} \\ 
+  & (0.017) \\ 
+  & \\ 
+ `ContinentNorth America:civil\_rights` & -0.128^{***} \\ 
+  & (0.018) \\ 
+  & \\ 
+ `ContinentOceania:civil\_rights` & 0.055 \\ 
+  & (0.111) \\ 
+  & \\ 
+ `ContinentSouth America:civil\_rights` & -0.030 \\ 
+  & (0.021) \\ 
+  & \\ 
+ `ContinentAsia:School\_years` & -0.025 \\ 
+  & (0.033) \\ 
+  & \\ 
+ `ContinentEurope:School\_years` & -0.077^{*} \\ 
+  & (0.046) \\ 
+  & \\ 
+ `ContinentNorth America:School\_years` & 0.013 \\ 
+  & (0.024) \\ 
+  & \\ 
+ `ContinentOceania:School\_years` & -0.046 \\ 
+  & (0.112) \\ 
+  & \\ 
+ `ContinentSouth America:School\_years` & -0.041 \\ 
+  & (0.027) \\ 
+  & \\ 
+ Constant & 1.563^{***} \\ 
+  & (0.010) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{3,067} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.818} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.817} \\ 
+Residual Std. Error & \multicolumn{1}{c}{0.550 (df = 3042)} \\ 
+F Statistic & \multicolumn{1}{c}{569.699$^{***}$ (df = 24; 3042)} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
